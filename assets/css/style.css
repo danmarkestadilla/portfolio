@@ -49,3 +49,21 @@ div.embed-responsive{
   padding-top: 200px;
 }
 
+.btn{
+  display: block;
+}
+
+.card{
+  width: 18rem;
+  margin: 0 auto;
+  margin-top: 110px;
+}
+
+.card-img-top{
+  width: 100%;
+}
+
+.portfolio{
+  margin-top: 50px;
+  height: 600px;
+}
